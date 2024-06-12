@@ -1,1 +1,1 @@
-# aur
+# tutorial
